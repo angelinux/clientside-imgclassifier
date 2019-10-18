@@ -1,6 +1,6 @@
 # Client Side Javascript Image Classifier
 
-This is a sample Image Classifier built with javascript and working only client-side. This is the homework assignment of first week for [Siraj Raval course](https://www.machinelearningcourse.io/courses/make-money).
+This is a sample Image Classifier built with javascript and working only client-side. This is the homework assignment of first week for [MMWML course](https://www.machinelearningcourse.io/courses/make-money).
 
 ## Troubleshooting
 
